@@ -9,6 +9,9 @@ venv/
 # env / secrets (NUNCA commitar)
 .env
 .env.*
+!.env.example
+# derivado do dataset (scripts/build_silver.py)
+data/silver/
 *.key
 *.pem
 

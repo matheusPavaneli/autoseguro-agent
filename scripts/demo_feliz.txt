@@ -1,0 +1,9 @@
+# Caminho feliz, rodado com QUOTE_SEED=14: a 1a chamada a /quote falha (5xx) e a 2a cota.
+# Dados pessoais ficticios, no formato do dataset. Uma mensagem do lead por linha.
+Oi, queria fazer um seguro pro meu carro
+e um Corolla 2022
+Cpf 529.982.247-25, tenho 35 anos, CEP 07310-100
+[documento] CNH_frente.pdf
+quero o completo, comecando dia 15 de dezembro
+isso mesmo, pode cotar
+fechado!

@@ -1,0 +1,4 @@
+# API de cotacao 100% fora, rodado com QUOTE_FAILURE_RATE=1: termina em handoff, sem preco.
+Boa tarde, quero uma cotacao pro meu HB20 2021
+tenho 29 anos, CEP 21040-100, quero o essencial comecando dia 1 de dezembro
+isso, pode cotar
